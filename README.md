@@ -141,10 +141,10 @@ During my internship period, I participated in multiple community-oriented activ
 
 - Community Services Planting & Helping Senior Citizens <!-- remove this line -->
 
-<div align="center">
-<img src="https://github.com/Arunasettipalli/Smart-Inventory-Management-/blob/main/Planting.jpeg" alt="Community Service Photo 1" width="30%">
-<img src="https://github.com/Arunasettipalli/Smart-Inventory-Management-/blob/main/Serving.jpeg" alt="Community Service Photo 2" width="30%">
 
+<div align="center">
+<img src="https://github.com/sushma915/Antarctica-Data-Observatory/blob/main/Serving.jpeg" width="30%">
+<img src="https://github.com/sushma915/Antarctica-Data-Observatory/blob/main/planting.jpeg" width="30%">
 </div>
 
 ---
@@ -155,11 +155,9 @@ The internship certificate serves as an official acknowledgment of the successfu
 
 <!-- add your certificate image url below (inside src='')-->
 
-
-<div align="center">
-<img src="https://github.com/sushma915/Antarctica-Data-Observatory/blob/main/Serving.jpeg" width="30%">
-<img src="https://github.com/sushma915/Antarctica-Data-Observatory/blob/main/planting.jpeg" width="30%">
-</div>
+<p align="center">
+<img src="https://github.com/Lord-Rahul/Practice-Programs/blob/main/react/1/public/Gemini_Generated_Image_a6w8rda6w8rda6w8.png?raw=true" alt="Internship Certificate" width="80%">
+</p>
 
 ---
 
