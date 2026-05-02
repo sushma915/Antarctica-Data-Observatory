@@ -18,10 +18,10 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> Thota Sushma </p>
-    <p><strong>Email ID:</strong>thotasushma15@gmail.com </p>
+    <p><strong>Name:</strong> T. Sushma </p>
+    <p><strong>Email ID:</strong> thotasushma15@gmail.com </p>
     <p><strong>College Name:</strong> Chaitanya Bharathi Institute of Technology </p>
-    <p><strong>Branch/Specialization :</strong> Computer Science & Engineering(AI) </p>
+    <p><strong>Branch/Specialization :</strong> Computer Science and Engineering(AI) </p>
     <p><strong>College ID:</strong> 232P5A3105 </p>
 </div>
 
@@ -29,20 +29,20 @@
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> Full Stack Web Development </p>
-    <p><strong>Instructor Name:</strong> Mr. Hari Haran , Mr. Balaji </p>
+    <p><strong>Course Opted:</strong> Full Stack web Development </p>
+    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> 6 months </p>
+    <p><strong>Duration:</strong> 6 Months </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> Mr. Hari Haran , Mr. Balaji</p>
-<p><strong>Trainer Email ID:</strong> xyz@gmail.com</p>
-<p><strong>Trainer Designation:</strong> xyz </p>
+<p><strong>Trainer Name:</strong> Akshara A </p>
+<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
+<p><strong>Trainer Designation:</strong> Full Stack Developer</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -72,19 +72,14 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> Web Penetesting </p>
-
-
-
-
+<p><strong><a href="#project1">Project 1:</a></strong> &lt;Antarctica Data Observatory &gt;</p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: Web Penetesting </h3>
+<h3 id="project1">Project 1: Antarctica Data Observatory</h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+  Antarctica Data Observatory is an advanced Power BI dashboard that visualizes real scientific data from Antarctica using datasets from SCAR, NASA, NSIDC, IMBIE, and NOAA. It features 8 interactive pages covering ice sheet mass loss (1992–2024), sea ice extent records (1979–2025), research station temperature trends, sea level rise contribution, and critical cryosphere events. Built with Power Query for data transformation and advanced DAX measures for dynamic KPIs, the dashboard transforms complex scientific datasets into clear, interactive visual stories accessible to both scientific and general audiences.
 </p>
 <p>
   <a href="https://github.com/Lord-Rahul/web-pentesting/blob/main/SURE%20Trust%20project%20document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
@@ -96,42 +91,43 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 ## **References**
 
-- [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
----
+- [SCAR – Scientific Committee on Antarctic Research](https://scar.org/library-data/data)
+- [IMBIE – Ice Sheet Mass Balance Intercomparison Exercise](https://imbie.org)
+- [NSIDC – National Snow and Ice Data Center](https://nsidc.org/data/seaice_index)
+- [NASA GRACE-FO – Ice Mass Loss Data](https://svs.gsfc.nasa.gov/31158/)
+- [NASA Earthdata – Antarctic Master Directory](https://search.earthdata.nasa.gov)
 
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+LST (Life Skills Training) and SST (Soft Skills Training) sessions provided valuable insights beyond technical knowledge and helped in overall personality development.
+I learned how effective communication plays a crucial role in both personal and professional life. It includes clarity in speaking, active listening, confidence, and proper body language.
+These sessions helped me understand how to manage money wisely, including budgeting, saving, and basic investment ideas. 
+I gained knowledge about how businesses start, the mindset required for entrepreneurship, risk-taking ability, and innovation.
+LST and SST sessions enhanced my confidence, communication abilities, and understanding of real-world situations. They prepared me not only for job opportunities but also for handling challenges in everyday life.
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
-
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship period, I actively participated in community service activities that focused on social responsibility and environmental awareness. These activities helped me understand the importance of giving back to society and working for the well-being of others.
 
 ### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
-  
- <!-- add the location where you have panted -->
-- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
+- **Food Donation Drive** – Distributed food to people in need and experienced the value of helping underprivileged communities.  
+  *Location:* Badvel
 
-  <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
+- **Tree Plantation Drive** – Planted saplings and contributed towards creating a greener and healthier environment.  
+  *Location:* Badvel
 
-<!-- you can write impacts according to your experience in your words-->
+- **Helping Elder Citizens** – Assisted elderly individuals with their daily tasks and provided support, which helped me develop empathy and patience.  
+  *Location:* Badvel
+These community service activities enhanced my sense of responsibility, teamwork, and compassion. They taught me that small contributions can make a meaningful difference in society.
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
+- Contributed to community welfare by supporting and participating in service-oriented activities such as food donation and environmental initiatives.  
+- Actively promoted a greener and cleaner environment through tree plantation activities.  
+- Provided assistance to elderly individuals, which helped in building empathy and strengthening community relationships.  
+- Improved my communication, coordination, and teamwork skills through active involvement in these activities.  
+- Developed a sense of social responsibility and understood the importance of contributing to society beyond academics.
 
 ### **Photos**
 
@@ -141,9 +137,8 @@ During my internship period, I participated in multiple community-oriented activ
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="https://github.com/Lord-Rahul/web-pentesting/blob/main/assets/1.jpg" alt="Community Service Photo 1" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
+<img src="https://github.com/sushma915/Antarctica-Data-Observatory/blob/main/Serving.jpeg" width="30%">
+<img src="https://github.com/sushma915/Antarctica-Data-Observatory/blob/main/planting.jpeg" width="30%">
 </div>
 
 ---
